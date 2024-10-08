@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(245, 244, 231);
+    background-color: rgb(255, 255, 255);
 }
 
 .header{
@@ -25,14 +25,14 @@ body{
 }
 
 .links a:hover{
-    color: #e605d3;
-    border-top: 2px solid #e605d3;
-    border-bottom: 2px solid #e605d3;
+    color: #e093ff;
+    border-top: 2px solid #e093ff;
+    border-bottom: 2px solid #e093ff;;
 }
 
 .link-a-1{
-    background-color: #ec37c7;
-    border: #e605d3 solid 2px;
+    background-color:#e093ff;
+    border: #e093ff solid 2px;
     color: white;
     font-weight: bold;
     padding: 15px;
@@ -41,7 +41,7 @@ body{
 
 .link-a-2{
     background-color: transparent;
-    border: #e605d3 solid 2px;
+    border: #e093ff solid 2px;
     font-weight: bold;
     padding: 5px;
 }
@@ -57,7 +57,7 @@ body{
 }
 
 .span-2{
-    color: #e605d3;
+    color: #e093ff;
 }
 
 footer {
@@ -108,7 +108,7 @@ footer {
 
 .secao-1 h2{
     font-weight: lighter;
-    color: #e605d3;
+    color: #e093ff;
 }
 
 img{
