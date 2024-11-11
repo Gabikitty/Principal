@@ -2,8 +2,16 @@ body{
     background-color: rgb(255, 255, 255);
 }
 
+main{
+    display: flex;
+    padding-top: 80px;
+}
+
 .header{
     padding: 20px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 
 .links{
